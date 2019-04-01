@@ -1,0 +1,9 @@
+.timer1{
+    margin: 10px;
+    text-align: center;
+}
+
+.some:after{
+    content: "(+)";
+    margin-left: 10px;
+}
